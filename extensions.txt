@@ -1,0 +1,12 @@
+.php
+.txt
+.js
+.docx
+.pdf
+.html
+.htm
+.asp
+.aspx
+.css
+.py
+.sh
