@@ -9,3 +9,4 @@ https://canarytokens.com/traffic/tags/{TOKEN}/contact.php
 http:\\canarytokens.com/traffic/tags/{TOKEN}/contact.php
 http:///canarytokens.com/traffic/tags/{TOKEN}/contact.php
 http://canarytokens.com/traffic/tags/{TOKEN}/contact.php
+@canarytokens.com/traffic/tags/{TOKEN}/contact.php
