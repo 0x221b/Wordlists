@@ -1,0 +1,15 @@
+&redir=
+&url=
+&redirect=
+&u=
+&next=
+&out=
+&view=
+
+?redir=
+?url=
+?redirect=
+?u=
+?next=
+?out=
+?view=
