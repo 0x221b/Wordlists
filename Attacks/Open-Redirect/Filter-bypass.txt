@@ -1,0 +1,11 @@
+http://canarytokens.com/traffic/tags/{TOKEN}/contact.php
+HtTp://canarytokens.com/traffic/tags/{TOKEN}/contact.php
+%00http://canarytokens.com/traffic/tags/{TOKEN}/contact.php
+ http://canarytokens.com/traffic/tags/{TOKEN}/contact.php
+//canarytokens.com/traffic/tags/{TOKEN}/contact.php
+%68%74%74%70%3a%2f%2fcanarytokens.com/traffic/tags/{TOKEN}/contact.php
+%2568%2574%2574%2570%253a%252f%252fcanarytokens.com/traffic/tags/{TOKEN}/contact.php
+https://canarytokens.com/traffic/tags/{TOKEN}/contact.php
+http:\\canarytokens.com/traffic/tags/{TOKEN}/contact.php
+http:///canarytokens.com/traffic/tags/{TOKEN}/contact.php
+http://canarytokens.com/traffic/tags/{TOKEN}/contact.php
