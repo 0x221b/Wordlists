@@ -1,0 +1,6 @@
+document.location
+document.URL
+document.open()
+window.location.href
+window.navigate()
+window.open()
