@@ -5,6 +5,15 @@
 &next=
 &out=
 &view=
+&destination=
+&redirect_url=
+&redirect_uri=
+&image_url=
+&go=
+&return=
+&returnTo=
+&return_to=
+&checkout_url=
 
 ?redir=
 ?url=
@@ -13,3 +22,12 @@
 ?next=
 ?out=
 ?view=
+?destination=
+?redirect_url=
+?redirect_uri=
+?image_url=
+?go=
+?return=
+?returnTo=
+?return_to=
+?checkout_url=
