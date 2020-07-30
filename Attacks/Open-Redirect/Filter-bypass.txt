@@ -10,3 +10,12 @@ http:\\canarytokens.com/traffic/tags/{TOKEN}/contact.php
 http:///canarytokens.com/traffic/tags/{TOKEN}/contact.php
 http://canarytokens.com/traffic/tags/{TOKEN}/contact.php
 @canarytokens.com/traffic/tags/{TOKEN}/contact.php
+//%0d%0ahttp://canarytokens.com/traffic/tags/{TOKEN}/contact.php
+ftp://canarytokens.com/traffic/tags/{TOKEN}/contact.php
+http://canarytokens。com/traffic/tags/{TOKEN}/contact.php
+/%0d/canarytokens.com/traffic/tags/{TOKEN}/contact.php
+http://canarytokens.com/traffic/tags/{TOKEN}/contact.php%EF%BC%http://{target}
+http://canarytokens.com/traffic/tags/{TOKEN}/contact.php/?-foobar
+http://Ⓒanarytokens.com/traffic/tags/{TOKEN}/contact.php
+%01http://canarytokens.com/traffic/tags/{TOKEN}/contact.php
+////%09/canarytokens.com/traffic/tags/{TOKEN}/contact.php
