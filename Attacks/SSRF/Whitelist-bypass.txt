@@ -1,0 +1,16 @@
+http://{domain}@127.0.0.1
+http://127.0.0.1#{domain}
+http://{domain}.127.0.0.1
+http://127.0.0.1/{domain}
+http://127.0.0.1/?d={domain}
+https://{domain}@127.0.0.1
+https://127.0.0.1#{domain}
+https://{domain}.127.0.0.1
+https://127.0.0.1/{domain}
+https://127.0.0.1/?d={domain}
+http://{domain}@localhost
+http://localhost#{domain}
+http://{domain}.localhost
+http://localhost/{domain}
+http://localhost/?d={domain}
+
