@@ -13,4 +13,9 @@ http://localhost#{domain}
 http://{domain}.localhost
 http://localhost/{domain}
 http://localhost/?d={domain}
-
+http://127.0.0.1%00{domain}
+http://127.0.0.1?{domain}
+http://127.0.0.1///{domain}
+https://127.0.0.1%00{domain}
+https://127.0.0.1?{domain}
+https://127.0.0.1///{domain}
