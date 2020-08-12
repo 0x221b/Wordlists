@@ -1,0 +1,17 @@
+<
+<>
+<script>
+<scrIpt>
+<script>alert
+<scipt>alErt
+<script>alert(
+<script>alert()
+<script>alert()<
+<script>alert()</
+<script>alert()</script>
+javascipt
+jaVaScript
+javascipt:
+jaVaScript:
+alert
+-alert()
