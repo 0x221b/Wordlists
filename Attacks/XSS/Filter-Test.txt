@@ -15,5 +15,7 @@
 221b20221b20jaVaScript
 221b20221b20javascipt:
 221b20221b20jaVaScript:
+221b20221b20jaVaScript:alert
+221b20221b20jaVaScript:alert()
 221b20221b20alert
 221b20221b20-alert()
