@@ -1,0 +1,6 @@
+/{file}
+/{file}/
+/{file}/.
+//{file}//
+/./{file}/./
+/%2e/{file}
