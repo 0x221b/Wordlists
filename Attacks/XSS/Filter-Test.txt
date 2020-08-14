@@ -19,3 +19,4 @@
 221b20221b20jaVaScript:alert()
 221b20221b20alert
 221b20221b20-alert()
+<a href=#>221b20221b20</a>
