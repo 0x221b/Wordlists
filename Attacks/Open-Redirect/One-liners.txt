@@ -1,0 +1,1 @@
+ ~/go/bin/gau https://takeaway.com -s  | head -n 5000 > ~/Projects/BugBounty/Targets/redirecturls.txt; cat ~/Projects/BugBounty/Targets/redirecturls.txt | sort -u | grep -a -i \=http | tee ~/Projects/BugBounty/Targets/takeaway_redirects.txt
