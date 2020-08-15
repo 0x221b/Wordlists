@@ -1,0 +1,9 @@
+#replace {org} with target organisation name
+
+"default password" org:{org}
+"230 login successful" port:21 org:{org}
+vsftpd 2.3.4 port:21 org:{org}
+230 'anonymous@' login ok org:{org}
+guest login ok org:{org}
+port:21 -530 +230 +{org}
+port:80 title:protected org:{org}
