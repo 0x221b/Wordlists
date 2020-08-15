@@ -1,1 +1,3 @@
- ~/go/bin/gau https://takeaway.com -s  | head -n 5000 > ~/Projects/BugBounty/Targets/redirecturls.txt; cat ~/Projects/BugBounty/Targets/redirecturls.txt | sort -u | grep -a -i \=http | tee ~/Projects/BugBounty/Targets/takeaway_redirects.txt
+ ~/go/bin/gau https://{target} -s  | head -n 5000 > ~/Projects/BugBounty/Targets/redirecturls.txt; cat ~/Projects/BugBounty/Targets/redirecturls.txt | sort -u | grep -a -i \=http | tee ~/Projects/BugBounty/Targets/{target}_redirects.txt
+
+python paramspider.py --domain {target} | tee ~/Project/BugBounty/Targets/{target}.txt ; ~/go/bin/gf redirect {target}.txt
