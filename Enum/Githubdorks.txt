@@ -1,0 +1,11 @@
+#replace {target} with target domain name
+"{target}" send_keys
+"{target}" password
+"{target}" api_key
+"{target}" apikey
+"{target}" jira_password
+"{target}" root password
+"{target}" access_token
+"{target}" config
+"{target}" client_secret
+"{target}" user auth
