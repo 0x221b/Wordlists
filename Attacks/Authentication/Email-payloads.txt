@@ -1,0 +1,7 @@
+#replace {payload} with SQLi, XSS or RCE etc
+
+"{payload}"@domain.com
+name@"{payload}"domain.com
+name({payload})@domain.com
+name@({payload})@domain.com
+name@domain.com({payload})
