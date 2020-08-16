@@ -1,0 +1,31 @@
+{
+
+    "flags" : "-HanrE",
+    "patterns" : [
+    "cmd="
+    "exec="
+    "command="
+    "ping="
+    "execute="
+    "query="
+    "jump="
+    "code="
+    "reg="
+    "do="
+    "func="
+    "arg="
+    "option="
+    "load="
+    "process="
+    "step="
+    "read="
+    "function="
+    "req="
+    "feature="
+    "exe="
+    "module="
+    "payload="
+    "run="
+    "print="
+    ]
+}
