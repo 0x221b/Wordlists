@@ -1,0 +1,31 @@
+{
+
+     "flags" : "-HanrE",
+    "patterns" : [
+    "id=",
+    "page=",
+    "dir=",
+    "search=",
+    "category=",
+    "class=",
+    "file=",
+    "url=",
+    "news=",
+    "item=",
+    "menu=",
+    "lang=",
+    "name=",
+    "ref=",
+    "title=",
+    "view=",
+    "topic=",
+    "thread=",
+    "type=",
+    "date=",
+    "form=",
+    "join=",
+    "main=",
+    "nav=",
+    "region=",
+    ]
+}
