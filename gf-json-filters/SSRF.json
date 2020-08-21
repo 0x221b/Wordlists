@@ -25,6 +25,7 @@
     "to=",
     "out=",
     "view=",
-    "dir="
+    "dir=",
+    "=http"
     ]
 }
