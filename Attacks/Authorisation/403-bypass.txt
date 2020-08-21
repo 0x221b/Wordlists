@@ -4,3 +4,6 @@
 //{file}//
 /./{file}/./
 /%2e/{file}
+/{file}%20/
+/%20{file}%20/
+/{file}%20/page
