@@ -9,3 +9,4 @@
 "{target}" config
 "{target}" client_secret
 "{target}" user auth
+"{target}" pwd=
