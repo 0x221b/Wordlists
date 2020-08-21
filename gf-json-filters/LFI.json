@@ -25,6 +25,7 @@
     "document=",
     "layout=",
     "mod=",
-    "conf="
+    "conf=",
+    ".txt"
     ]
 }
