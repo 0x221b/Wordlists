@@ -1,0 +1,3 @@
+site:{target} inurl:%2f
+site:{target} inurl:%3f
+site:{target} inurl:%3a
