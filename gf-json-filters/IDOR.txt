@@ -1,0 +1,20 @@
+{
+    "flags": "-iE",
+     "patterns": [
+
+ "id=",
+ "user=",
+ "account=",
+ "number=",
+ "order=",
+ "no=",
+ "doc=",
+ "key=",
+ "email=",
+ "group=",
+ "profile=",
+ "edit=",
+ "report="
+ 
+ ]
+}
