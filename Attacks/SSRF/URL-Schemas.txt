@@ -4,3 +4,6 @@ file:///
 dict://
 ftp://
 gopher://
+sftp://
+ldap://
+tftp://
