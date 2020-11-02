@@ -7,3 +7,5 @@
 /{file}%20/
 /%20{file}%20/
 /{file}%20/page
+# change protocol from to http to https or vice versa
+# change request method, eg GET to POST
