@@ -1,9 +1,9 @@
-X-Forwarded-For: 127.0.0.1
-X-Forwarded-By: 127.0.0.1
-X-Forwarded: 127.0.0.1
-X-Forwarded-For-Original: 127.0.0.1
-X-Forwarder-For:127.0.0.1
-Forwarded: 127.0.0.1
-Forwarded-For: 127.0.0.1
-Forwarded-For-Ip: 127.0.0.1
-Referer: 127.0.0.1
+X-Forwarded-For:
+X-Forwarded-By:
+X-Forwarded:
+X-Forwarded-For-Original:
+X-Forwarder-For:
+Forwarded:
+Forwarded-For:
+Forwarded-For-Ip:
+Referer:
